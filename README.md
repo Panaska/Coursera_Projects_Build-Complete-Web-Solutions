@@ -7,4 +7,4 @@ Week 2. Basic Javasript. Game "Guess the color"<br>
 Week 3. Advanced Javasript. Matching Game<br><br>
 
 Course "Front-End Web UI Frameworks and Tools"<br>
-Week 4. ConFusion. Page "About Us"<br>
+Week 1. ConFusion. Page "About Us"<br>
