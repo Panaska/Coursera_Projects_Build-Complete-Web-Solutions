@@ -8,4 +8,4 @@ Week 3. Advanced Javasript. Matching Game<br><br>
 
 Course "Front-End Web UI Frameworks and Tools"<br>
 Week 1. ConFusion. Page "About Us"<br>
-Week 2. ConFusion. Main Page (adding navbar-form, reservation form, som buttons and images)<br>
+Week 2. ConFusion. Main Page (adding navbar-form, reservation form, some buttons and images)<br>
