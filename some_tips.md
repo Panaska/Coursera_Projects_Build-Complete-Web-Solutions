@@ -6,5 +6,7 @@ lessc mystyles.less > mystyles.css
 
 (sudo) npm install -g bower<br>
 bower init (creating bower.json)<br>
+bower install (all dependencies from bower.json)<br>
 bower install bootstrap -S<br>
-bower install font-awesome -S
+bower install font-awesome -S<br>
+bower install angular -S<br>
