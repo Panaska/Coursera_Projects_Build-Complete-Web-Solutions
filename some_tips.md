@@ -37,7 +37,7 @@ npm install grunt-contrib-uglify --save-dev<br>
 npm install grunt-filerev --save-dev<br>
 npm install grunt-usemin --save-dev<br>
 npm install grunt-contrib-watch --save-dev<br>
-npm install grunt-contrib-connect --save-dev<br><br>
+npm install grunt-contrib-connect --save-dev<br>
 
 grunt<br>
 grunt serve<br><br>
@@ -46,7 +46,7 @@ INSTALLING GULP<br>
 (sudo) npm install -g gulp<br>
 
 INSTALLING GULP PLUGINS<br>
-npm install jshint gulp-jshint jshint-stylish gulp-imagemin gulp-concat gulp-uglify gulp-minify-css gulp-usemin gulp-cache gulp-changed gulp-rev gulp-rename gulp-notify  browser-sync del --save-dev<br><br>
+npm install jshint gulp-jshint jshint-stylish gulp-imagemin gulp-concat gulp-uglify gulp-minify-css gulp-usemin gulp-cache gulp-changed gulp-rev gulp-rename gulp-notify  browser-sync del --save-dev<br>
 
 gulp<br>
 gulp watch<br><br>
