@@ -1,4 +1,4 @@
-Ctrl + с - abort command
+Ctrl + с - abort command<br>
 cd PATH - change directory
 
 
@@ -37,7 +37,7 @@ npm install grunt-contrib-uglify --save-dev<br>
 npm install grunt-filerev --save-dev<br>
 npm install grunt-usemin --save-dev<br>
 npm install grunt-contrib-watch --save-dev<br>
-npm install grunt-contrib-connect --save-dev<br><br><br>
+npm install grunt-contrib-connect --save-dev<br><br>
 
 grunt<br>
 grunt serve<br><br>
