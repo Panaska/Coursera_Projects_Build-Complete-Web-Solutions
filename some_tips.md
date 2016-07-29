@@ -17,7 +17,7 @@ bower install angular -S<br>
 
 INSTALLING GRUNT<br>
 (sudo) npm install -g grunt-cli       (globally)<br>
-npm install grunt --save-dev   (inside the project)<br><br>
+npm install grunt --save-dev   (inside the project)<br>
 
 INSTALLING GRUNT MODULES<br>
 npm install grunt-contrib-jshint --save-dev<br>
@@ -43,7 +43,7 @@ grunt<br>
 grunt serve<br><br>
 
 INSTALLING GULP<br>
-(sudo) npm install -g gulp<br><br>
+(sudo) npm install -g gulp<br>
 
 INSTALLING GULP PLUGINS<br>
 npm install jshint gulp-jshint jshint-stylish gulp-imagemin gulp-concat gulp-uglify gulp-minify-css gulp-usemin gulp-cache gulp-changed gulp-rev gulp-rename gulp-notify  browser-sync del --save-dev<br><br>
