@@ -1,11 +1,27 @@
 Angular Built-in Directives
 ng-app is applied to <html> tag to specify the root of the application 
 ng-bind
-ng-model binds input value to a JS variable within the scope
+ng-model binds input value to a JS variable within the scope (used ie for forms)
 ng-init is used to evaluate an expression or initialize JS variable or declare JS Object
 ng-repeat - looping construct, a template for each item
+ng-show, ng-hide
+ng-options 
+ng-submit - specifies the function to submit the form with
+ng-minlength, ng-maxlength
+ng-pattern
+ng-disabled
 
 
 Angular expression = JS expression (but simple - no loops, conditionals or exceptions) - enclosed in {{expression}}
 
-Two-wat Data Binding - binding HTML or CSS property to a JS variable
+Two-way Data Binding - binding HTML or CSS property to a JS variable
+
+$scope
+
+$pristine
+$dirty
+$valid
+$invalid 
+these four - for verifying fields of form
+
+$error
