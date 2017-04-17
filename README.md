@@ -13,5 +13,5 @@ Week 3. ConFusion. Main Page (adding modal, moving reservation form into the mod
 Week 4. ConFusion. Main Page (writing jquery with bootstrap methods for modals instead of data-attributes)<br><br>
 
 Course "Front-End JavaScript Frameworks: AngularJS"<br>
-Week 1 (5). ConFusion. Dishdetail page (displaying dish information, displaying dish comments, filtering comments (orderBy))<br>
-Week 2 (5). ConFusion. Dishdetail page (displaying comment form, verifying form, pushing new comments into comments array)<br>
+Week 5 (1). ConFusion. Dishdetail page (displaying dish information, displaying dish comments, filtering comments (orderBy))<br>
+Week 6 (2). ConFusion. Dishdetail.html + app.js (displaying comment form, verifying form, pushing new comments into comments array)<br>
