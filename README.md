@@ -14,3 +14,4 @@ Week 4. ConFusion. Main Page (writing jquery with bootstrap methods for modals i
 
 Course "Front-End JavaScript Frameworks: AngularJS"<br>
 Week 1 (5). ConFusion. Dishdetail page (displaying dish information, displaying dish comments, filtering comments (orderBy))<br>
+Week 2 (5). ConFusion. Dishdetail page (displaying comment form, verifying form, pushing new comments into comments array)<br>
