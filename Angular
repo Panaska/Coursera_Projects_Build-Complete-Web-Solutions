@@ -10,6 +10,7 @@ ng-submit - specifies the function to submit the form with
 ng-minlength, ng-maxlength
 ng-pattern
 ng-disabled
+ng-include - for including templates
 
 
 Angular expression = JS expression (but simple - no loops, conditionals or exceptions) - enclosed in {{expression}}
