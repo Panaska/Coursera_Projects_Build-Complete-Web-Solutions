@@ -1,5 +1,7 @@
 Ctrl + с - abort command<br>
-cd PATH - change directory
+cd PATH - change directory<br>
+npm install http-server -g - to start server
+http-server C:\location\to\app - to put server into the app location
 
 
 (sudo - Mac, Linux) npm install -g node-sass<br>
