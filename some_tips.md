@@ -17,6 +17,7 @@ bower install bootstrap -S<br>
 bower install font-awesome -S<br>
 bower install angular -S<br>
 bower install angular-route -S<br>
+bower install angular-ui-router -S<br>
 
 INSTALLING GRUNT<br>
 (sudo) npm install -g grunt-cli       (globally)<br>
