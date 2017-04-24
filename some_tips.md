@@ -1,7 +1,9 @@
 Ctrl + с - abort command<br>
 cd PATH - change directory<br>
-npm install http-server -g - to start server
-http-server C:\location\to\app - to put server into the app location
+npm install http-server -g - to start server<br>
+http-server C:\location\to\app - to put server into the app location<br>
+(sudo) npm install json-server -g - installing json server<br>
+json-server --watch db.json - starting json server<br>
 
 
 (sudo - Mac, Linux) npm install -g node-sass<br>
