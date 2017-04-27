@@ -4,6 +4,11 @@ npm install http-server -g - to start server<br>
 http-server C:\location\to\app - to put server into the app location<br>
 (sudo) npm install json-server -g - installing json server<br>
 json-server --watch db.json - starting json server<br>
+(sudo) npm install jasmine-core --save-dev<br>
+(sudo) npm install karma-cli -g (not working with me - problems with karma-phantomjs-launcher installing)<br>
+npm install karma --save-dev (actually worked to install karma)<br>
+npm install karma-jasmine --save-dev<br>
+npm install phantomjs karma-phantomjs-launcher karma-chrome-launcher --save-dev<br>
 
 
 (sudo - Mac, Linux) npm install -g node-sass<br>
@@ -21,6 +26,7 @@ bower install angular -S<br>
 bower install angular-route -S<br>
 bower install angular-ui-router -S<br>
 bower install angular-resource -S<br>
+bower install angular-mocks -S<br>
 
 INSTALLING GRUNT<br>
 (sudo) npm install -g grunt-cli       (globally)<br>
@@ -58,3 +64,6 @@ npm install gulp-ng-annotate --save-dev<br>
 
 gulp<br>
 gulp watch<br><br>
+
+RUNNING TESTS<br>
+karma start karma.conf.js (from test folder)
