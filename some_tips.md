@@ -9,6 +9,8 @@ json-server --watch db.json - starting json server<br>
 npm install karma --save-dev (actually worked to install karma)<br>
 npm install karma-jasmine --save-dev<br>
 npm install phantomjs karma-phantomjs-launcher karma-chrome-launcher --save-dev<br>
+npm install protractor -g<br>
+webdriver-manager update<br>
 
 
 (sudo - Mac, Linux) npm install -g node-sass<br>
@@ -53,7 +55,9 @@ npm install grunt-contrib-watch --save-dev<br>
 npm install grunt-contrib-connect --save-dev<br>
 
 grunt<br>
-grunt serve<br><br>
+grunt serve<br>
+grunt build<br>
+grunt test<br><br>
 
 INSTALLING GULP<br>
 (sudo) npm install -g gulp<br>
@@ -67,3 +71,13 @@ gulp watch<br><br>
 
 RUNNING TESTS<br>
 karma start karma.conf.js (from test folder)
+protractor protractor.conf.js (from test older)
+
+INSTALLING YO
+(sudo) npm install yo -g (after installing bower, grunt, gulp - or instead of it)
+
+INSTALLIG GENERATORS
+(sudo) npm install generator-angular -g (other generators: yeoman.io)
+
+SCAFFOLDING OUT A PROJECT
+Create a project folder/directory -> yo *generator_name* (i.e. angular) (from project folder)
