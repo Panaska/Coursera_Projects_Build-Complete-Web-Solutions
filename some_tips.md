@@ -1,5 +1,12 @@
+Installing node (with npm): nodejs.org or: <br>
+http://brew.sh/index_ru.html (/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)") and then: brew install node<br>
+npm update npm -g<br>
+(sudo) npm cache clean<br>
+npm uninstall -g npm<br>
+npm install -g npm@2.12.1 - installing specific version of npm<br>
 Ctrl + с - abort command<br>
 cd PATH - change directory<br>
+node -v, npm -v, gulp -v, bower -v - checking installed versions<br>
 npm install http-server -g - to start server<br>
 http-server C:\location\to\app - to put server into the app location<br>
 (sudo) npm install json-server -g - installing json server<br>
@@ -52,7 +59,7 @@ npm install grunt-contrib-uglify --save-dev<br>
 npm install grunt-filerev --save-dev<br>
 npm install grunt-usemin --save-dev<br>
 npm install grunt-contrib-watch --save-dev<br>
-npm install grunt-contrib-connect --save-dev<br>
+npm install grunt-contrib-connect --save-dev<br><br>
 
 grunt<br>
 grunt serve<br>
@@ -70,14 +77,22 @@ gulp<br>
 gulp watch<br><br>
 
 RUNNING TESTS<br>
-karma start karma.conf.js (from test folder)
-protractor protractor.conf.js (from test older)
+karma start karma.conf.js (from test folder)<br>
+protractor protractor.conf.js (from test older)<br><br>
 
-INSTALLING YO
-(sudo) npm install yo -g (after installing bower, grunt, gulp - or instead of it)
+INSTALLING YO<br>
+(sudo) npm install yo -g (after installing bower, grunt, gulp - or instead of it)<br><br>
 
-INSTALLIG GENERATORS
-(sudo) npm install generator-angular -g (other generators: yeoman.io)
+INSTALLIG GENERATORS<br>
+(sudo) npm install generator-angular -g (other generators: yeoman.io)<br><br>
 
-SCAFFOLDING OUT A PROJECT
-Create a project folder/directory -> yo *generator_name* (i.e. angular) (from project folder)
+SCAFFOLDING OUT A PROJECT<br>
+Create a project folder/directory -> yo *generator_name* (i.e. angular) (from project folder)<br><br>
+
+INTALLING IONIC<br>
+(sudo) npm install cordova ionic -g<br><br>
+
+CREATING AN IONIC PROJECT<br>
+ionic start *Project_name* sidemenu --v1 (or --v2) (from the project folder)<br>
+cd *Project_name*<br>
+ionic serve<br>
