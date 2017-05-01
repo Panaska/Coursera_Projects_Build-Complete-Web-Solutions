@@ -96,3 +96,4 @@ CREATING AN IONIC PROJECT<br>
 ionic start *Project_name* sidemenu --v1 (or --v2) (from the project folder)<br>
 cd *Project_name*<br>
 ionic serve<br>
+ionic serve --lab (views in iOS and Android)<br>
