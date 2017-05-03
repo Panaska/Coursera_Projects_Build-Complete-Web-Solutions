@@ -16,4 +16,8 @@ Course "Front-End JavaScript Frameworks: AngularJS"<br>
 Week 5 (1). ConFusion. Dishdetail page (displaying dish information, displaying dish comments, filtering comments (orderBy))<br>
 Week 6 (2). ConFusion. Dishdetail.html + app.js (displaying comment form, verifying form, pushing new comments into comments array)<br>
 Week 7 (3). ConFusion. Finishing the app (creating aboutus.html and home.html + their controllers)<br>
+Week 8 (4). ConFusion. Updating the app (getting data for aboutus.html and home.html from the server, recording feedback from the feedback form on the server)<br><br>
+
+Course "Multiplatform Mobile App Development with Web Technologies"<br>
+Week 9 (1). ConFusion App. Designing About Us and Contact Us pages for App<br>
 
