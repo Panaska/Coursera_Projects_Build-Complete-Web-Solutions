@@ -20,4 +20,5 @@ Week 8 (4). ConFusion. Updating the app (getting data for aboutus.html and home.
 
 Course "Multiplatform Mobile App Development with Web Technologies"<br>
 Week 9 (1). ConFusion App. Designing About Us and Contact Us pages for App<br>
+Week 10 (2). ConFusion App. Creating Popover for Dish Details pages (adding dishes to Favorites and pushing comments)<br>
 
