@@ -97,3 +97,10 @@ ionic start *Project_name* sidemenu --v1 (or --v2) (from the project folder)<br>
 cd *Project_name*<br>
 ionic serve<br>
 ionic serve --lab (views in iOS and Android)<br>
+ionic platform add android (ios)<br>
+ionic platform remove android (ios)<br>
+ionic build android<br>
+ionic emulate android<br>
+ionic run android<br>
+ionic resources - creating splash screen<br>
+bower install ngCordova --save
