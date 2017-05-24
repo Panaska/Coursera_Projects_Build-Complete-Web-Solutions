@@ -98,6 +98,10 @@ cd *Project_name*<br>
 ionic serve<br>
 ionic serve --lab (views in iOS and Android)<br>
 ionic platform add android (ios)<br>
+(((cordova platform update android@6.2.2<br>
+or<br>
+cordova platform rm android<br>
+cordova platform add android@6.2.2)))<br>
 ionic platform remove android (ios)<br>
 ionic build android<br>
 ionic emulate android<br>
