@@ -107,4 +107,10 @@ ionic build android<br>
 ionic emulate android<br>
 ionic run android<br>
 ionic resources - creating splash screen<br>
-bower install ngCordova --save
+bower install ngCordova --save<br>
+ionic plugin add de.appplant.cordova.plugin.local-notification<br>
+ionic plugin add https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git<br>
+ionic plugin add cordova-plugin-camera<br>
+ionic plugin add org.apache.cordova.camera (if your Cordova version is below 5.0)<br>
+ionic (cordova???) plugin add https://github.com/wymsee/cordova-imagePicker.git<br>
+ionic (cordova???) plugin add cordova-plugin-vibration
