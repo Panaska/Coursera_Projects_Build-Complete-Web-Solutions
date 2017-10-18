@@ -1,5 +1,8 @@
 Installing node (with npm): nodejs.org or: <br>
 http://brew.sh/index_ru.html (/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)") and then: brew install node<br>
+node<br>
+process.versions<br>
+process.exit()<br>
 npm update npm -g<br>
 (sudo) npm cache clean<br>
 npm uninstall -g npm<br>
