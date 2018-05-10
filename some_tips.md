@@ -4,6 +4,7 @@ node<br>
 process.versions<br>
 process.exit()<br>
 npm update npm -g<br>
+npm update node -g<br>
 (sudo) npm cache clean<br>
 npm uninstall -g npm<br>
 npm install -g npm@2.12.1 - installing specific version of npm<br>
@@ -116,4 +117,10 @@ ionic plugin add https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git<br>
 ionic plugin add cordova-plugin-camera<br>
 ionic plugin add org.apache.cordova.camera (if your Cordova version is below 5.0)<br>
 ionic (cordova???) plugin add https://github.com/wymsee/cordova-imagePicker.git<br>
-ionic (cordova???) plugin add cordova-plugin-vibration
+ionic (cordova???) plugin add cordova-plugin-vibration<br><br>
+
+CREATING A REACT PROJECT<br><br>
+npm install -g create-react-app<br>
+create-react-app my-app<br>
+cd my-app<br>
+npm start<br>
