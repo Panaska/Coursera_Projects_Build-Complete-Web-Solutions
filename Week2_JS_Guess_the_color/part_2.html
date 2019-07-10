@@ -26,7 +26,6 @@ guess_input = prompt("I am thinking of one of these colors:\n\n" + colors.join("
 //console.log (colors.indexOf(guess_input));
  guess_number += 1;   
         finished = check_guess();
-
 }
 
 }
@@ -49,20 +48,14 @@ if (guess_input > target)
 {alert ("Your color is alphabetically higher than mine!");
 return false;}
 
-
 document.getElementsByTagName("body")[0].style.background=target;
 document.getElementsByTagName("h2")[0].innerHTML="CORRECT!";
 alert ("Congratulations!\n\n" + "You took " + guess_number + " guesses!");
 return true;
-
 }
 
 
 </script>
-
-
-
-
 </head>
 
 <body onload="do_game()">
